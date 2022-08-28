@@ -20,5 +20,4 @@ When StackedInvest.com had their bot program up, this was the code that sent the
 ### Trade Data
 
 Available in my other repositories. Actual strategy has been removed. 
-Please DM me if you'd like to learn more about the strategy itself.
-I just do not want this completely public.
+
